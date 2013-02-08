@@ -10,10 +10,16 @@ MIT
 
 http://en.wikipedia.org/wiki/MIT_License
 
+Author:
+=======
+
+Marek Dajnowski
+
 Installation:
 =============
 
 Put these into your header:
+
 	<link href="/resources/css/style-as-you-go.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="/resources/js/style-as-you-go.js"></script>
 
@@ -35,7 +41,6 @@ If 'Pre-selector' field is filled, this selector will be applied before any rule
 In editor:
 
 	p { color: red; }
-
 	a { color: blue; }
 
 
@@ -45,7 +50,6 @@ In 'Pre-selector' you will put .post
 Your browser will get:
 
 	.post p { color: red }
-
 	.post a { color: blue }
 
 IMPORTANT:
