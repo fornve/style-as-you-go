@@ -1,3 +1,10 @@
+/*
+ * @package Style As You go
+ * @author Marek Dajnowski
+ * @license MIT http://en.wikipedia.org/wiki/MIT_License
+ * @documentation https://github.com/fornve/style-as-you-go
+ */
+
 var StyleAsYouGo = function()
 {
 	this.contents = '';
