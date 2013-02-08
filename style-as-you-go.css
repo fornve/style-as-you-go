@@ -1,0 +1,27 @@
+.style-as-you-go-button
+{
+	border: 1px solid #a0a0a0;
+	padding: 5px 10px;
+	background: #fff;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	font-family: sans-serif;
+}
+
+.style-as-you-go-editor
+{
+	width: 400px;
+	height: 300px;
+	border: 1px solid #a0a0a0;
+	background: #fff;
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	padding: 2px;
+	display: none;
+	font-family: sans-serif;
+}
+
+.style-as-you-go-editor textarea { font-size: 11px; height: 260px; }
+.style-as-you-go-editor .move-handle { width: 140px; float: right; cursor: move; text-align: right; }
