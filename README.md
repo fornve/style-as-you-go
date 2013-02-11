@@ -55,4 +55,5 @@ Your browser will get:
 IMPORTANT:
 ==========
 
-Your styles are not saved anywhere and will dissapear if page is reloaded. When you are happy with your styling, copy them into your stylesheet file ;)
+Your styles are saved only in your browser cache. When you are happy with your styling, copy them into your stylesheet file ;)
+
